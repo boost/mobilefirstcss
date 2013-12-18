@@ -1,0 +1,20 @@
+/* ===============================
+Base CSS
+=============================== */
+.exampleClass { width: 100%; }
+
+
+/* ===============================
+Media Queries
+=============================== */
+@media only screen and (min-width: 500px) {
+	.exampleClass { width: 50%; }
+}
+
+@media only screen and (min-width: 850px) {
+	.exampleClass { width: 540px; }
+}
+
+@media only screen and (min-width: 1500px) {
+	.exampleClass { width: 75%; }
+}
