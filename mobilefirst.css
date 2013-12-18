@@ -1,11 +1,11 @@
 /* ===============================
-Base CSS
+  Base CSS
 =============================== */
 .exampleClass { width: 100%; }
 
 
 /* ===============================
-Media Queries
+  Media Queries
 =============================== */
 @media only screen and (min-width: 500px) {
 	.exampleClass { width: 50%; }
